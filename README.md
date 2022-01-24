@@ -1,2 +1,3 @@
-# TensorFlow_
-Projects Using the TensorFlow Machine Learning Library
+## TensorFlow Projects
+
+### Projects using the TensorFlow Platform
